@@ -1,0 +1,29 @@
+.borda {
+    margin: auto; 
+    width: 580px;
+    padding: 20px;
+    position: relative;}
+
+.titulo {
+    font-family: var(--fontstyle1);
+    font-size: 30px;
+    padding-top: 15px;
+    color: var(--white);
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 540px;
+   text-align: center;
+}
+
+.text {
+    line-height: 200%;
+    width: 480px;
+    padding: 30px;
+    font-family: var(--fontstyle);
+    font-size: 12px;
+    text-align: justify;
+    color: var(--lightgray);
+    border: 1px solid var(--gray);
+    margin-top: 20px;
+    background: var(--fundocode);
+}
