@@ -1,4 +1,4 @@
-#borda {
+.borda {
     margin: auto; 
     width: 580px;
     padding: 20px;
